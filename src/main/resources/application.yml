@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://tiagossantos814:${DB_PASSWORD}@wakanda.cs9snbh.mongodb.net/Produto-Wakanda?retryWrites=true&w=majority&appName=Wakanda
