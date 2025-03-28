@@ -1,4 +1,4 @@
-package dev.tiagowakanda.produdoro.area.domain.domain;
+package dev.tiagowakanda.produdoro.area.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
